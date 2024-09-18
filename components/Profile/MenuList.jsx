@@ -89,7 +89,7 @@ const {signOut} = useAuth();
         textAlign:'center',
         marginTop:230,
         color:Colors.PRIMARY
-      }}>Developed by Pushkal Vashishtha</Text>
+      }}>Developed by Lord Adru</Text>
     </View>
   )
 }
